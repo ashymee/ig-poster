@@ -27,7 +27,7 @@ const simpleParser = mailparser.simpleParser
 
 app.use(express.static(path.join(__dirname, '/')))
 
-cron.schedule('25 00 * * *', async () => {
+cron.schedule('* * * * *', async () => {
   const instagramLogin = async () => {
     const client = new Instagram(
       {
