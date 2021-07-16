@@ -82,6 +82,11 @@
     "@types/qs" "*"
     "@types/serve-static" "*"
 
+"@types/gh-pages@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/gh-pages/-/gh-pages-3.0.1.tgz#37108a3a8a5c9827ca8094c1ec8efde09e556518"
+  integrity sha512-QMqYL/ypwGcNpbXV4LFuwZybxhEcGk64YhOJ+YA1Y7e2kC2mJ0ifUk/DGzveJalhLgZk0QmIb+/icTQALyg+Ow==
+
 "@types/glob@*":
   version "7.1.4"
   resolved "https://registry.yarnpkg.com/@types/glob/-/glob-7.1.4.tgz#ea59e21d2ee5c517914cb4bc8e4153b99e566672"
