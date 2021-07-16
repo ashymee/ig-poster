@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "build/index.min.js",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "clean": "rimraf build/",
     "watch": "tsc -w",
