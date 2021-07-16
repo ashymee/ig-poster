@@ -2,7 +2,7 @@
   "name": "instagram-poster",
   "version": "1.0.0",
   "description": "",
-  "main": "build/main.min.js",
+  "main": "build/index.min.js",
   "scripts": {
     "clean": "rimraf build/",
     "watch": "tsc -w",
