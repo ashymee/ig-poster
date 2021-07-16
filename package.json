@@ -15,7 +15,7 @@
     "tsc": "tsc",
     "webpack": "webpack",
     "build": "npm-run-all clean tsc copy webpack remove",
-    "start": "node build/main.min.js"
+    "start": "node build/index.min.js"
   },
   "keywords": [],
   "author": "Aswin Sahlan Himawan",
